@@ -350,9 +350,5 @@ smart-curriculum-attendance/
 ├── .env.example
 ├── .gitignore
 └── README.md
-```
-
----
-
 Built for Hackathon 2026 · **Attend. Plan. Learn.** 🎓
  
