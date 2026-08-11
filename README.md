@@ -355,6 +355,4 @@ smart-curriculum-attendance/
 ---
 
 Built for Hackathon 2026 · **Attend. Plan. Learn.** 🎓
-#   S m a r t - C u r r i c u l u m - A t t e n d a n c e - 2 -  
- #   S m a r t - C u r r i c u l u m - A t t e n d a n c e - 2 -  
  
